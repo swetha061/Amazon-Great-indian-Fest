@@ -104,25 +104,10 @@ amazon-clone/
 ├── index.html             # Main HTML file
 ├── README.md              # Project documentation
 
-## 🤝 Code of Conduct
-
-We expect contributors to adhere to the following Code of Conduct:
-
-1. **Be Respectful**: Treat others with respect and empathy.
-2. **Be Inclusive**: Create an environment where everyone feels welcome.
-3. **No Harassment**: Harassment of any kind will not be tolerated.
-4. **Collaborate Openly**: Share knowledge and work together to improve the project.
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this project for personal or commercial purposes.
-
-See the full license text [here](LICENSE).
-
----
 
 ## 🙌 Contributing
 
@@ -152,11 +137,6 @@ Special thanks to the creators of **Mediapipe**, **OpenCV**, and **Netlify** for
 
 ---
 
-## 📧 Contact
-
-If you have any questions, feedback, or ideas, feel free to contact me:
-
-- **GitHub**: https://github.com/avanimathur
 
 
 
